@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0ddba8c-4126-4862-8a81-69cae306256d" name="Merge from trunk" comment="Merge from trunk" />
+    <list id="fb72c8e0-936d-4208-b5ed-f7ee574e008e" name="Changes" comment="" />
+    <list id="05525baa-a48a-4a9f-99d3-af4ddc7b2094" name="Merge from 2.0" comment="Merge all from 2.0" />
+    <list id="afe319e5-bc2f-4613-bf7b-2a549fa3d01d" name="Merge from 3.0" comment="Merge all from 3.0" />
+    <list id="a3ec9eed-0458-4e61-b0b9-d81b2e731b8b" name="Merge from 3.0 (1)" comment="Merge all from 3.0">
+      <change beforePath="$PROJECT_DIR$/.idea" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/servletTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet/servletTest.java" afterDir="false" />
+    </list>
+    <list id="420fbfe6-af0d-4a6c-8aeb-02c14c9dcb64" name="Merge from 9.0" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Tag Library Descriptor" />
+        <option value="a." />
+        <option value="a.xml" />
+        <option value="Kotlin Class" />
+        <option value="jsf" />
+        <option value="mybatis-cfg.xml " />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../eclipse.daima/AJAX.SJONs/src/main/java/servlet/Daoxlsx.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../eclipse.daima/AJAX.SJONs/src/main/webapp/user.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2AqDun8VvChUHpBMLQjpqkRRGC2" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1954023" />
+    <property name="settings.editor.selected.configurable" value="shared-indexes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\project\log4j\src\main\webapp\WEB-INF\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA\project\log4j" />
+      <recent name="D:\IDEA\project\log4j\src\main\webapp\WEB-INF\lib" />
+      <recent name="D:\IDEA\project\log4j\src\main\webapp\WEB-INF" />
+      <recent name="D:\IDEA\project\log4j\src" />
+      <recent name="D:\IDEA\project\log4j\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="log4j" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dao3wenjian.Test" />
+      <module name="log4j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao3wenjian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="servletlog4j2.Test" />
+      <module name="log4j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="servletlog4j2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="log.Test" />
+      <module name="log4j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="log.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="servletTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="servlet.servletTest" />
+      <module name="log4j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="servlet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.20" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="log4j:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/log4j_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="28ed428c-2711-46ce-93e7-420e7ece4549" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58898" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="log4j:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.servletTest" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.20" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.servletTest" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\86185\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\IDEA\project\log4j" />
+          <option name="myCopyRoot" value="D:\IDEA\project\log4j" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\IDEA\project\log4j" />
+          <option name="myCopyRoot" value="D:\IDEA\project\log4j" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb72c8e0-936d-4208-b5ed-f7ee574e008e" name="Changes" comment="" />
+      <created>1655728447980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655728447980</updated>
+      <workItem from="1655728449611" duration="3818000" />
+      <workItem from="1655772912172" duration="5844000" />
+      <workItem from="1655791514372" duration="1471000" />
+      <workItem from="1655969826277" duration="5898000" />
+      <workItem from="1655982576463" duration="4259000" />
+      <workItem from="1655989680106" duration="6453000" />
+      <workItem from="1656029288234" duration="6409000" />
+      <workItem from="1656051519021" duration="1509000" />
+      <workItem from="1656054776921" duration="4465000" />
+      <workItem from="1656071110414" duration="10249000" />
+      <workItem from="1656081679338" duration="20000" />
+      <workItem from="1656115559475" duration="1823000" />
+      <workItem from="1656118258079" duration="48000" />
+      <workItem from="1656120075961" duration="70000" />
+      <workItem from="1656121511900" duration="3396000" />
+      <workItem from="1656137269925" duration="10055000" />
+      <workItem from="1656148229841" duration="868000" />
+      <workItem from="1656155034241" duration="87000" />
+      <workItem from="1656288366170" duration="4269000" />
+      <workItem from="1656293520991" duration="4092000" />
+      <workItem from="1656298194255" duration="431000" />
+      <workItem from="1656298743766" duration="2412000" />
+      <workItem from="1656310250842" duration="1191000" />
+      <workItem from="1656314242808" duration="701000" />
+      <workItem from="1656318157856" duration="2150000" />
+      <workItem from="1656322765192" duration="535000" />
+      <workItem from="1656328159602" duration="3017000" />
+      <workItem from="1656332058560" duration="598000" />
+      <workItem from="1656332711377" duration="74000" />
+      <workItem from="1656332822899" duration="72000" />
+      <workItem from="1656332939660" duration="2117000" />
+      <workItem from="1656335179086" duration="111000" />
+      <workItem from="1656335457247" duration="1165000" />
+      <workItem from="1656375833284" duration="1575000" />
+      <workItem from="1656379267165" duration="7251000" />
+      <workItem from="1656396632684" duration="2580000" />
+      <workItem from="1656401929257" duration="699000" />
+      <workItem from="1656406388494" duration="599000" />
+      <workItem from="1656415242878" duration="598000" />
+      <workItem from="1656417992332" duration="305000" />
+      <workItem from="1656418728994" duration="207000" />
+      <workItem from="1656419099312" duration="84000" />
+      <workItem from="1656419342308" duration="52000" />
+      <workItem from="1656419423932" duration="5000" />
+      <workItem from="1656419730253" duration="428000" />
+      <workItem from="1656420694149" duration="1324000" />
+      <workItem from="1656423395318" duration="52000" />
+      <workItem from="1656463538661" duration="3418000" />
+      <workItem from="1656467217243" duration="3818000" />
+      <workItem from="1656474533159" duration="9000" />
+      <workItem from="1656484223714" duration="19000" />
+      <workItem from="1656485977614" duration="2077000" />
+      <workItem from="1656488075044" duration="1229000" />
+      <workItem from="1656491471030" duration="1013000" />
+      <workItem from="1656493387632" duration="2233000" />
+      <workItem from="1656501100294" duration="2084000" />
+      <workItem from="1656504716338" duration="657000" />
+      <workItem from="1656505397947" duration="283000" />
+      <workItem from="1656505687233" duration="240000" />
+      <workItem from="1656505951515" duration="710000" />
+      <workItem from="1656506675175" duration="506000" />
+      <workItem from="1656509184321" duration="5000" />
+      <workItem from="1656569504779" duration="289000" />
+      <workItem from="1656569863441" duration="2000" />
+      <workItem from="1656577127754" duration="1453000" />
+      <workItem from="1656897424431" duration="135000" />
+      <workItem from="1656900795041" duration="59000" />
+      <workItem from="1656939579894" duration="27000" />
+      <workItem from="1656939632500" duration="69000" />
+      <workItem from="1656939724886" duration="9000" />
+      <workItem from="1656988159947" duration="680000" />
+      <workItem from="1657108694405" duration="59000" />
+      <workItem from="1657161773819" duration="15000" />
+      <workItem from="1657161860695" duration="58000" />
+      <workItem from="1657261909426" duration="34000" />
+      <workItem from="1657327816986" duration="56000" />
+      <workItem from="1660113842455" duration="73000" />
+      <workItem from="1660114063102" duration="98000" />
+      <workItem from="1660221362214" duration="20000" />
+      <workItem from="1666354900933" duration="37000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1656495340381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656495340381</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge all from 2.0">
+      <created>1656495416884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656495416884</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge all from 3.0">
+      <created>1656503103481</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656503103481</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge all from 3.0">
+      <created>1656505595202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656505595202</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge all from 2.0" />
+    <MESSAGE value="Merge all from 3.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge all from 3.0" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
