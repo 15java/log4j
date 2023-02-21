@@ -8,7 +8,7 @@ public class Test {
 
     public static void main(String[] args) {
 
-        log.error("我是error,error,error4444444");
+        log.error("我是error,error,error6666666");
         log.info("我是info,info,info");
         log.debug("我是debug,debug,debug");
         
